@@ -3,7 +3,7 @@
 // find how much a business profits off a product if it operates on a 0.4 profit margin
 
 import java.util.Scanner;
-public class profitMargin1
+public class profitMarginCalc
 {
 	public static void main(String[] args)
 	{
