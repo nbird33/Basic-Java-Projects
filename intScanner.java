@@ -1,6 +1,6 @@
 /*
 Programmer: Noah Bird
-Date: 4/11/2018
+Date: 4/11/2018-first coded
 Output: User inputs as many numbers as they want in do/while loop that determines largest and smallest integers entered.
 */
 import java.util.Scanner;
