@@ -9,7 +9,8 @@ public class profitMarginCalc
 	{
 		double retail_price;
 		double profit;
-        double profit_margin = 0.4;
+        	double profit_margin = 0.4;
+		
 		Scanner keyboard = new Scanner(System.in);
 
 		System.out.print("What is the retail price of the product? ");
