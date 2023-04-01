@@ -1,6 +1,8 @@
-// Noah Bird
-// 2/14/18-first coded
-// find how much a business profits off a product if it operates on a 0.4 profit margin
+/*
+Programmer: Noah Bird
+Date: 2/14/18-first coded
+Output: find how much a business profits off a product if it operates on a 0.4 profit margin
+*/
 
 import java.util.Scanner;
 public class profitMarginCalc
