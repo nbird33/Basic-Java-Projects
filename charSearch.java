@@ -1,3 +1,10 @@
+/*
+Programmer: Noah Bird
+Date: 12/2/18-initially coded
+Output: ask users to enter a string then ask user to select a char and program will determine 
+how many times that char is in the string user entered.
+*/
+
 import java.util.Scanner;
 
 public class charSearch
